@@ -1,0 +1,6 @@
+.completed{
+    text-decoration: none;
+  }
+.not_completed{
+    text-decoration: line-through;
+  }
